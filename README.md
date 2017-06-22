@@ -1,2 +1,3 @@
 # hello-world
-exerse repository
+exercise repository
+why why why why
